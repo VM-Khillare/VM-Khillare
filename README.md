@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VM-Khillare
 - 👀 I’m interested in Data Science, Machine Learining and AI Domain
-- 🌱 I’m currently learning Python, R, Scala, Java and other Big Data Technologies
+- 🌱 I’m currently learning Python, R, SQL, ML-OPS, Docker, Github, FastAPI, AWS, GEN-AI, and other Big Data Technologies.
 - 💞️ I’m looking to collaborate on Data Analysis Project
 - 📫 How to reach me : Mail me at khillare.vishal@gmail.com / khillare_vishal@yahoo.co.in
 
